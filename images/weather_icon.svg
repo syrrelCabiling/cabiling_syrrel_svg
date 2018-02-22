@@ -1,0 +1,45 @@
+<svg id="weather" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 884.24 888.83">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #83a4ed;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 5.99px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 41.91px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #e8bc42;
+      }
+    </style>
+  </defs>
+  <title>weather_icon</title>
+  <rect class="cls-1" x="3.1" y="7.69" width="878.15" height="878.15" rx="71.85" ry="71.85"/>
+  <circle class="cls-2" cx="442.08" cy="452.75" r="166.89"/>
+  <polygon class="cls-2" points="376.59 231.15 428.43 154.92 486.36 231.15 376.59 231.15"/>
+  <polygon class="cls-2" points="217.17 377.96 181.34 293.03 276.81 285.81 217.17 377.96"/>
+  <polygon class="cls-2" points="245.78 587.28 157.07 562.21 211.07 483.15 245.78 587.28"/>
+  <polygon class="cls-2" points="429.93 685.36 361.6 747.23 323.25 659.51 429.93 685.36"/>
+  <polygon class="cls-2" points="629.82 619.9 620.95 711.65 533.53 672.6 629.82 619.9"/>
+  <polygon class="cls-2" points="678.38 424 754.11 476.56 677.33 533.76 678.38 424"/>
+  <polygon class="cls-2" points="570.75 264.78 661.84 250.65 645.65 345.01 570.75 264.78"/>
+  <rect class="cls-3" x="2.99" y="2.99" width="878.15" height="878.15" rx="71.85" ry="71.85"/>
+  <circle class="cls-4" cx="441.97" cy="448.06" r="166.89"/>
+  <polygon class="cls-4" points="376.49 226.46 428.32 150.23 486.25 226.46 376.49 226.46"/>
+  <polygon class="cls-4" points="217.06 373.27 181.23 288.34 276.7 281.12 217.06 373.27"/>
+  <polygon class="cls-4" points="245.67 582.59 156.97 557.52 210.96 478.45 245.67 582.59"/>
+  <polygon class="cls-4" points="429.82 680.67 361.5 742.54 323.15 654.82 429.82 680.67"/>
+  <polygon class="cls-4" points="629.72 615.21 620.84 706.96 533.42 667.9 629.72 615.21"/>
+  <polygon class="cls-4" points="678.27 419.31 754 471.87 677.22 529.07 678.27 419.31"/>
+  <polygon class="cls-4" points="570.64 260.09 661.73 245.96 645.55 340.32 570.64 260.09"/>
+</svg>
