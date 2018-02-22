@@ -1,0 +1,21 @@
+<svg id="house" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #b991ed;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 47.73px;
+      }
+    </style>
+  </defs>
+  <title>home_mo</title>
+  <rect class="cls-1" width="1000" height="1000" rx="81.82" ry="81.82"/>
+  <polygon class="cls-2" points="168.66 519.86 168.6 859.75 819.52 857.95 819.52 519.86 168.66 519.86"/>
+  <polygon class="cls-2" points="679.27 510.91 546.12 296.3 526.43 264.57 287.27 264.57 168.66 519.86 679.27 510.91"/>
+  <polygon class="cls-2" points="634.31 167.47 546.12 296.3 679.27 510.91 819.52 519.86 736.81 167.47 634.31 167.47"/>
+  <polygon class="cls-2" points="399.96 655.92 399.96 856.32 577.88 854.64 577.88 655.92 399.96 655.92"/>
+</svg>

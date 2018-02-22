@@ -1,36 +1,20 @@
-<svg id="shopping" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 885.39 879.8">
+<svg id="shopping" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
   <defs>
     <style>
       .cls-1 {
-        fill: #6370ce;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        stroke: #fff;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-1, .cls-3 {
-        stroke-width: 5.96px;
+        fill: #894242;
       }
 
       .cls-2 {
         fill: none;
-        stroke-width: 41.71px;
-      }
-
-      .cls-3 {
-        fill: #894242;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 47.73px;
       }
     </style>
   </defs>
   <title>shopping_icon</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <rect class="cls-1" x="2.98" y="2.98" width="873.84" height="873.84" rx="71.5" ry="71.5"/>
-    <path class="cls-2" d="M228.23,470H757.71a31.51,31.51,0,0,1,30.51,39.34C771.64,574.3,734.1,703.65,683,772.56a89,89,0,0,1-71.68,35.71H352.11A93.35,93.35,0,0,1,281,775.53c-30.63-35.93-69.2-110.66-88.52-265.18A36,36,0,0,1,228.23,470Z" transform="translate(-59.08 -54.69)"/>
-    <path class="cls-2" d="M258.43,470s221-592.79,448.78,0" transform="translate(-59.08 -54.69)"/>
-  </g>
-  <rect class="cls-3" x="8.57" y="2.98" width="873.84" height="873.84" rx="71.5" ry="71.5"/>
-  <path class="cls-2" d="M246,470H760.6a33.58,33.58,0,0,1,32.55,41.92c-16.75,65.13-53.42,190.23-103.09,258.68-17.44,24-45.84,37.66-75.54,37.66H356.77S239,790.47,200,523.06A46.47,46.47,0,0,1,246,470Z" transform="translate(-59.08 -54.69)"/>
-  <path class="cls-2" d="M264,470s221-592.78,448.78,0" transform="translate(-59.08 -54.69)"/>
+  <rect class="cls-1" width="1000" height="1000" rx="81.82" ry="81.82"/>
+  <path class="cls-2" d="M204.14,471.88H793a38.42,38.42,0,0,1,37.25,48c-19.16,74.53-61.14,217.69-118,296-20,27.5-52.46,43.09-86.44,43.09h-295S196.08,838.6,151.48,532.58A53.16,53.16,0,0,1,204.14,471.88Z" transform="translate(0)"/>
+  <path class="cls-2" d="M224.72,471.88s253-678.37,513.57,0" transform="translate(0)"/>
 </svg>

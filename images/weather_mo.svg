@@ -1,0 +1,25 @@
+<svg id="weather" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1002.28 1002.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #83a4ed;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 47.84px;
+      }
+    </style>
+  </defs>
+  <title>weather_mo</title>
+  <rect class="cls-1" width="1002.28" height="1002.28" rx="82" ry="82"/>
+  <circle class="cls-2" cx="501.03" cy="507.97" r="190.49"/>
+  <polygon class="cls-2" points="426.29 255.05 485.45 168.05 551.57 255.05 426.29 255.05"/>
+  <polygon class="cls-2" points="244.33 422.61 203.43 325.68 312.39 317.44 244.33 422.61"/>
+  <polygon class="cls-2" points="276.98 661.52 175.74 632.91 237.36 542.67 276.98 661.52"/>
+  <polygon class="cls-2" points="487.17 773.47 409.18 844.09 365.41 743.96 487.17 773.47"/>
+  <polygon class="cls-2" points="715.31 698.76 705.18 803.48 605.41 758.9 715.31 698.76"/>
+  <polygon class="cls-2" points="770.74 475.16 857.16 535.15 769.53 600.43 770.74 475.16"/>
+  <polygon class="cls-2" points="647.88 293.43 751.85 277.3 733.38 385.01 647.88 293.43"/>
+</svg>
