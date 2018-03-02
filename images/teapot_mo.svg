@@ -1,0 +1,29 @@
+<svg id="teapot" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #577764;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 47.36px;
+      }
+
+      .cls-3 {
+        stroke-width: 20.3px;
+      }
+    </style>
+  </defs>
+  <title>teapot_mo</title>
+  <rect class="cls-1" width="1000" height="1000" rx="81.82" ry="81.82"/>
+  <path class="cls-2" d="M270.65,374H717.23s50.46,160.8,32.84,295.53c-4.65,35.55-31.37,72.37-46.34,98.81a64.29,64.29,0,0,1-56,32.54H311.1a69,69,0,0,1-61.78-38.48c-12.51-25.21-26.19-58.51-27.93-86.3C218.11,623.56,198.41,544.75,270.65,374Z" transform="translate(0)"/>
+  <path class="cls-3" d="M754.49,466S782.56,374,827.06,360.87l44.5-13.14V374s-52.84,89.15-38.81,115.41,28,157.13-78.26,140.71Z" transform="translate(0)"/>
+  <path class="cls-3" d="M388.86,288.63s111.65-65.68,203.59,0c36.49,26.06,63.67,44.89,83.18,58.11C687.81,355,682,374,667.26,374H310.2c-13.57,0-19.62-17-9.08-25.57C327.21,327.3,364.34,299.12,388.86,288.63Z" transform="translate(0)"/>
+  <path class="cls-3" d="M270.65,374" transform="translate(0)"/>
+  <path class="cls-2" d="M871.56,347.73" transform="translate(0)"/>
+</svg>

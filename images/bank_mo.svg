@@ -1,0 +1,41 @@
+<svg id="credit_card" data-name="credit card" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #894242;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 47.73px;
+      }
+
+      .cls-3 {
+        stroke-width: 27.27px;
+      }
+
+      .cls-4 {
+        stroke-width: 40.91px;
+      }
+
+      .cls-5 {
+        stroke-width: 20.45px;
+      }
+    </style>
+  </defs>
+  <title>bank_mo</title>
+  <rect class="cls-1" width="1000" height="1000" rx="81.82" ry="81.82"/>
+  <path class="cls-2" d="M100.81,364.9s3.83-92,80.48-92,636.21,3.84,636.21,3.84,76.66,19.16,76.66,88.15V644.67S898,709.83,821.34,729l-624.72,3.83s-69,7.67-92-67.07Z" transform="translate(0 -0.33)"/>
+  <rect class="cls-3" x="687.2" y="341.57" width="91.98" height="80.48"/>
+  <line class="cls-4" x1="162.13" y1="502.65" x2="234.95" y2="502.65"/>
+  <line class="cls-4" x1="308.36" y1="502.65" x2="381.18" y2="502.65"/>
+  <line class="cls-4" x1="464.51" y1="502.65" x2="537.33" y2="502.65"/>
+  <line class="cls-4" x1="621.76" y1="502.65" x2="694.58" y2="502.65"/>
+  <line class="cls-4" x1="768.21" y1="502.65" x2="841.03" y2="502.65"/>
+  <rect class="cls-5" x="162.13" y="559.13" width="59.91" height="54.69"/>
+  <rect class="cls-5" x="308.36" y="559.13" width="72.82" height="54.69"/>
+</svg>
