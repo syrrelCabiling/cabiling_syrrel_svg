@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body
+{
+ font-family: Arial, Helvetica, san-serif;
+ font-size: 18px;
+}
+
+#container
+{
+ width: 900px;
+ margin: 0 auto;
+}
+
+#container img
+{
+  opacity: 1;
+	transition: opacity .25s ease-in-out;
+}
+
+#container img:hover
+{
+  opacity: .5;
+}
